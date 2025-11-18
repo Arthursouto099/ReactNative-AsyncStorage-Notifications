@@ -7,7 +7,7 @@ import Router from "./Router";
 export default function App() {
     return (
         <NavigationContainer>
-                    <Router/>
+            <Router />
 
         </NavigationContainer>
     )
